@@ -1,0 +1,14 @@
+C:\Users\artur\source\repos\exerciciosCurso\bin\Debug\net8.0\exerciciosCurso.exe
+C:\Users\artur\source\repos\exerciciosCurso\bin\Debug\net8.0\exerciciosCurso.deps.json
+C:\Users\artur\source\repos\exerciciosCurso\bin\Debug\net8.0\exerciciosCurso.runtimeconfig.json
+C:\Users\artur\source\repos\exerciciosCurso\bin\Debug\net8.0\exerciciosCurso.dll
+C:\Users\artur\source\repos\exerciciosCurso\bin\Debug\net8.0\exerciciosCurso.pdb
+C:\Users\artur\source\repos\exerciciosCurso\obj\Debug\net8.0\exerciciosCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\exerciciosCurso\obj\Debug\net8.0\exerciciosCurso.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\exerciciosCurso\obj\Debug\net8.0\exerciciosCurso.AssemblyInfo.cs
+C:\Users\artur\source\repos\exerciciosCurso\obj\Debug\net8.0\exerciciosCurso.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\exerciciosCurso\obj\Debug\net8.0\exerciciosCurso.dll
+C:\Users\artur\source\repos\exerciciosCurso\obj\Debug\net8.0\refint\exerciciosCurso.dll
+C:\Users\artur\source\repos\exerciciosCurso\obj\Debug\net8.0\exerciciosCurso.pdb
+C:\Users\artur\source\repos\exerciciosCurso\obj\Debug\net8.0\exerciciosCurso.genruntimeconfig.cache
+C:\Users\artur\source\repos\exerciciosCurso\obj\Debug\net8.0\ref\exerciciosCurso.dll
